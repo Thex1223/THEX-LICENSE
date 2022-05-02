@@ -1,0 +1,2 @@
+# THEX-LICENSE
+LICENSE Thex
